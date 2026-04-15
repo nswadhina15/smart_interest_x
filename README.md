@@ -39,7 +39,7 @@ The application follows a clean separation of concerns:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/smart_interest_x.git](https://github.com/yourusername/smart_interest_x.git)
+   git clone [https://github.com/nswadhina15/smart_interest_x]
    cd smart_interest_x
 
 2. **Install Dependencies**
