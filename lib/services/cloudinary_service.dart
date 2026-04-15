@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:http/http.dart' as http;
 
 class CloudinaryService {
-  final String cloudName = 'dxqr5tqjz';
+  final String cloudName = 'YOUR_CLOUD_NAME';
   final String uploadPreset = 'smart_interest_uploads';
 
   Future<String?> uploadImage(File imageFile) async {
